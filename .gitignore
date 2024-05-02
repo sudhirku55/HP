@@ -1,0 +1,14 @@
+Pages_HPX/__pycache__
+Pages_HPX/account_submenu/__pycache__
+reports/
+tests_hpone/__pycache__
+utilities/__pycache__
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+```
+I have tried to add the following to the .gitignore file:
+```bash
+
